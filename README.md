@@ -4,7 +4,7 @@
 
 ## 説明
 モンスターをパックリしてください。<br>
-こちらから遊べます。⇒  [WebMSX](http://webmsx.org/?MACHINE=MSX1J&ROM=https://github.com/CoBinee/crossc-msx/raw/main/roms/CROSSC.ROM)
+こちらから遊べます。⇒  [WebMSX](http://webmsx.org/?MACHINE=MSX1J&ROM=https://github.com/CoBinee/crossc-msx/raw/main/rom/CROSSC.ROM)
 
 ## 操作
 - `↑`, `↓`, `←`, `→`<br>移動
